@@ -1,0 +1,100 @@
+[
+  {
+    "title":"Information sur la contraception",
+    "description":"Première campagne nationale sur la contraception. Elle est mise en œuvre par le ministère des Droits de la Femme et se déroule en novembre et décembre 1981.",
+    "image":"6/vignette.jpg",
+    "categorie":"1",
+    "annonceur":"Ministère chargé des Affaires sociales",
+    "agence":"Eleuthera",
+    "date":"1981",
+    "video":[{"title":"Pouvoir choisir", "file":"upload/6/b494543a7b8d97bdc7b5eb091d8a0d4a4e3beb6289147.flv"}],
+    "audio":[{}],
+    "site":[{}],
+    "annonce":[{}]
+  },
+  {
+    "title":"Lutte contre le cannabis",
+    "description":"Première du genre en Europe, cette campagne a pris le parti de dire simplement que le cannabis était une réalité et d'en montrer les conséquences, au travers de témoignages. S'attaquant à un "mythe" sans diaboliser le produit, elle incite au dialogue entre jeunes et parents.",
+    "image":"6/vignette.jpg",
+    "categorie":"1",
+    "annonceur":"Ministère chargé de la santé ; INPES ; MILDT",
+    "agence":"Draft FCB",
+    "date":"2005",
+    "video":
+      [
+        {
+          "title":"Bad trip",
+          "file":"upload/8/b818d018f13320d67cf0eae7ec14322f4eba67565cfc9.flv"
+        },
+        {
+          "title":"Perte de motivation",
+          "file":"upload/8/4b2d49a8001da1baac5fcc2ffb548f264eba679c86617.flv"
+        },
+        {
+          "title":"Bad trip",
+          "file":"upload/8/0331e4f481402b7f200047656c2066714eba67b285b43.flv"
+        },
+        {
+          "title":"Isolement",
+          "file":"upload/8/575a16012c729114c1a43b920a9479e84eba67d9637fe.flv"
+        },
+        {
+          "title":"Déconcentration",
+          "file":"upload/8/f2f751e5b051c87cdb132ac8c42b17a14eba680bb0b3b.flv"
+        },
+        {
+          "title":"Dépendance",
+          "file":"upload/8/973780a5289ee696e59c74d9f19fc3bc4eba681ca5574.flv"
+        }
+      ],
+    "audio":
+      [
+        {
+          "title":"Bad trip",
+          "file":"upload/8/1e29d3a9d6707b5ac6ecc93010d017e74e3bef6953cc9.mp3",
+          "image":"upload/8/f11d4ccce3ae6671477b5129768436d94ea7dc23b7f7c.jpg"
+        },
+        {
+          "title":"Malaises",
+          "file":"upload/8/d4fa268fb48cbab4642b8ea99cadba094e3bf035b9251.mp3",
+          "image":"upload/8/f90b10fdd37733eeb3e1848d75ef90144ea7dc476bf6c.jpg"
+        },
+        {
+          "title":"Résultats scolaires",
+          "file":"upload/8/13904814d3b1a041b9e7d97d45a82aad4e3bf05cbb5cd.mp3",
+          "image":"upload/8/7e60c4b799ae81696ac19a252030f6714ea7db71d83f7.jpg"
+        },
+        {
+          "title":"Déconcentration",
+          "file":"upload/8/f35cf5096220ea0b7cd5ed6296abe5574e3bf0750df22.mp3",
+          "image":"upload/8/0dc79155bfb567d9f0fed346ec3be15f4eba5d2423f49.jpg"
+        },
+        {
+          "title":"Isolement",
+          "file":"upload/8/adfdba30af55079ab25b2f674b45a33a4e3bf0a015796.mp3",
+          "image":"upload/8/ec0d447b52b8ef1757d09a78134e2b284ea7dbbdded4e.jpg"
+        },
+        {
+          "title":"Perte de motivation",
+          "file":"upload/8/541fb631fc6824921634f37a0665a8a64e3bf0d18779c.mp3",
+          "image":"upload/8/7297560f5b04c305edff46837d9513914ea7dbe3a1883.jpg"
+        },
+        {
+          "title":"Dépendance",
+          "file":"upload/8/fd919494e613e7455409c7f1cf4c9f1a4e3bf0f529963.mp3",
+          "image":"upload/8/0d6471a30f3014c88e7083cd6a54d8164ea7db46a16ac.jpg"
+        },
+        {
+          "title":"Dépendance 2",
+          "file":"upload/8/a8dcec203991a641114e60dfb82dabea4e3bf1174dc4d.mp3",
+          "image":"upload/8/9f3c3d72bd95d01da4e9cdd331ae3d3a4ea7dc0d5a390.jpg"
+        }
+      ],
+    "annonce":[
+        {"title":"Dépendance","file":"upload/8/254d907e260181cf8764a269d9e7f0a04ebba30e06270.jpg"},
+        {"title":"Aider ma fille","file":"upload/8/b931bd002f67561d8f0f205aab59d79d4ebb9d12835b0.jpg"},
+        {"title":"Aider mes enfants","file":"upload/8/ab3e9121ee6bb22038c0e261f191968f4ebba2dadb772.jpg"},
+        {"title":"Aider mon fils","file":"upload/8/c49274b19512a17f043721333655c8264ebba2f6e3056.jpg"}
+        ]
+  }
+]
